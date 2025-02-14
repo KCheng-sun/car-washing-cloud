@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getChargingOrderByConnectorId","paramTypes":["java.lang.String"],"doc":" 返回最新的充电订单\n @param connectorId\n @return\n"},{"name":"dealWithExChargeOrder","paramTypes":[],"doc":" 处理超过24小时的无效订单\n"}],"constructors":[]}

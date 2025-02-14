@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"page","paramTypes":["java.lang.String","org.dromara.common.mybatis.core.page.PageQuery"],"doc":" 查询充电桩编码列表(分页)\n"},{"name":"getInfo","paramTypes":["java.lang.String"],"doc":" 根据充电桩编码id获取详细信息\n"}],"constructors":[]}

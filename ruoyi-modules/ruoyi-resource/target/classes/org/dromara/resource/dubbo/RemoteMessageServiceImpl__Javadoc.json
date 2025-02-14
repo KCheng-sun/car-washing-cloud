@@ -1,1 +1,0 @@
-{"doc":" 短信服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"sendMessage","paramTypes":["java.lang.Long","java.lang.String"],"doc":" 发送消息\n\n @param sessionKey session主键 一般为用户id\n @param message    消息文本\n"},{"name":"publishAll","paramTypes":["java.lang.String"],"doc":" 发布订阅的消息(群发)\n\n @param message 消息内容\n"}],"constructors":[]}

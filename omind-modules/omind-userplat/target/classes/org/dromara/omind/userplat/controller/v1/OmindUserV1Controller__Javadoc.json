@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"list","paramTypes":["org.dromara.omind.userplat.api.domain.dto.OmindUserListDto","org.dromara.common.mybatis.core.page.PageQuery"],"doc":" 管理后台查询用户列表(分页)\n"},{"name":"getInfo","paramTypes":["java.lang.Long"],"doc":" 管理后台根据用户id获取详细信息\n"}],"constructors":[]}

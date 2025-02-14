@@ -1,1 +1,0 @@
-{"doc":"","fields":[{"name":"USER_OPERATOR_TOKEN","doc":" 用户平台根据用户平台运营商id获取与基础平台通信token\n"},{"name":"BASE_OPERATOR_TOKEN","doc":" 基础平台根据基础平台运营商id获取与用户平台通信token\n"}],"enumConstants":[],"methods":[],"constructors":[]}

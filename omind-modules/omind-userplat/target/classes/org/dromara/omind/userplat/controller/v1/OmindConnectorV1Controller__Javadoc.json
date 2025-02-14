@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"page","paramTypes":["org.dromara.omind.userplat.api.domain.request.ConnectorPageRequest","org.dromara.common.mybatis.core.page.PageQuery"],"doc":" 查询充电设备编码列表(分页)\n"},{"name":"getInfo","paramTypes":["java.lang.Integer"],"doc":" 根据充电设备编码id获取详细信息\n"}],"constructors":[]}

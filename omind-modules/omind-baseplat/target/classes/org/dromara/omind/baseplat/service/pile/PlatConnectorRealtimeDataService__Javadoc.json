@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"list4TradeNo","paramTypes":["java.lang.String"],"doc":" 获取订单充电实时数据列表（从缓存读取）\n @param tradeNo\n @return\n"},{"name":"list4TradeNo","paramTypes":["java.lang.String","boolean"],"doc":" 获取订单充电实时数据列表\n @param tradeNo\n @param refreshCache true 更新缓存 false 从缓存读取\n @return\n"}],"constructors":[]}

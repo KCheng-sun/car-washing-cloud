@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"isOperatorIdValid","paramTypes":["java.lang.String"],"doc":" 判断运营商ID是否已存在\n @param operatorId\n @return\n"}],"constructors":[]}

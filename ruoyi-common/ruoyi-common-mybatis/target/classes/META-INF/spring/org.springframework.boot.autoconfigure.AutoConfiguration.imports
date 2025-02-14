@@ -1,3 +1,0 @@
-org.dromara.common.mybatis.config.MybatisPlusConfiguration
-org.dromara.common.mybatis.handler.MybatisExceptionHandler
-org.dromara.common.mybatis.service.SysDataScopeService

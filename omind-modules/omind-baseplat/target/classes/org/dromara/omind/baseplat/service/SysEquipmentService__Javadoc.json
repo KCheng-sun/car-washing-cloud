@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"isEquipmentIdValid","paramTypes":["java.lang.String"],"doc":" 判断充电设备ID是否已存在\n @param equipmentId\n @return\n"}],"constructors":[]}

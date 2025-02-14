@@ -1,8 +1,0 @@
-org.dromara.system.domain.convert.SysLogininforBoConvert
-org.dromara.system.domain.convert.SysSocialBoConvert
-org.dromara.system.domain.convert.SysTenantVoConvert
-org.dromara.system.domain.convert.SysDictDataVoConvert
-org.dromara.system.domain.convert.SysOperLogBoConvert
-org.dromara.system.domain.convert.SysClientVoConvert
-org.dromara.system.domain.convert.SysSocialVoConvert
-org.dromara.system.domain.convert.SysUserBoConvert

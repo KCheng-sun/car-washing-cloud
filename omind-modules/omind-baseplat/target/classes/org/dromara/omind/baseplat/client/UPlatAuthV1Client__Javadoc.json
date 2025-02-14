@@ -1,1 +1,0 @@
-{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"queryToken","paramTypes":["java.lang.String","org.dromara.omind.baseplat.api.domain.dto.HlhtDto"],"doc":" 获取token（根据返回的有效期定义合理的缓存时间）\n @param baseUrl\n @param data\n @return\n"}],"constructors":[]}

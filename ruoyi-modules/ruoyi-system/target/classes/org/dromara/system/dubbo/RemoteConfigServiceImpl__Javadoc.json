@@ -1,0 +1,1 @@
+{"doc":" 配置服务\n\n @author Michelle.Chung\n","fields":[],"enumConstants":[],"methods":[{"name":"selectRegisterEnabled","paramTypes":["java.lang.String"],"doc":" 获取注册开关\n"}],"constructors":[]}

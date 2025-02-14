@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"checkValid","paramTypes":["org.dromara.omind.userplat.api.domain.entity.OmindOperatorEntity"],"doc":" 请求体校验\n\n @return\n"}],"constructors":[]}

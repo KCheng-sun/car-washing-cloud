@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.cloud.sentinel.transport",
+      "type": "org.dromara.common.sentinel.config.properties.SentinelCustomProperties",
+      "sourceType": "org.dromara.common.sentinel.config.properties.SentinelCustomProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.cloud.sentinel.transport.server-name",
+      "type": "java.lang.String",
+      "sourceType": "org.dromara.common.sentinel.config.properties.SentinelCustomProperties"
+    }
+  ],
+  "hints": []
+}

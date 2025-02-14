@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"id","doc":" 区域ID\n"},{"name":"parentId","doc":" 父ID\n"},{"name":"level","doc":" 层级\n"},{"name":"name","doc":" 区域名称\n"},{"name":"ePrefix","doc":" 拼音首字母\n"},{"name":"eName","doc":" 拼音名称\n"},{"name":"extId","doc":" 对外区域ID\n"},{"name":"extName","doc":" 区域对外名称\n"}],"enumConstants":[],"methods":[],"constructors":[]}

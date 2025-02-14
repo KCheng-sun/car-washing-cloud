@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"saveBatch","paramTypes":["java.lang.String","java.util.List"],"doc":" 更新订单明细（会删除旧的明细）\n @param startChargeSeq\n @param list\n @return\n"}],"constructors":[]}

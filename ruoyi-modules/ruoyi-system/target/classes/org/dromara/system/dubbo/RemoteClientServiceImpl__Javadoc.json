@@ -1,0 +1,1 @@
+{"doc":" 客户端服务\n\n @author Michelle.Chung\n","fields":[],"enumConstants":[],"methods":[{"name":"queryByClientId","paramTypes":["java.lang.String"],"doc":" 根据客户端id获取客户端详情\n"}],"constructors":[]}

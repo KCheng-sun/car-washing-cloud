@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"startCharging","paramTypes":["org.dromara.omind.baseplat.api.domain.entity.SysOperator","org.dromara.omind.baseplat.api.domain.request.QueryStartChargeData"],"doc":" 返回交易流水号\n 为空则启动失败\n @param queryStartChargeData\n @return\n"}],"constructors":[]}

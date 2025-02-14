@@ -1,0 +1,89 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "api-userplat",
+            "request": "launch",
+            "mainClass": "org.dromara.omind.userplat.api.OmindApiUserplatApplication",
+            "projectName": "omind-api-userplat"
+        },
+        {
+            "type": "java",
+            "name": "OmindBaseplatApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.omind.baseplat.OmindBaseplatApplication",
+            "projectName": "omind-baseplat"
+        },
+        {
+            "type": "java",
+            "name": "OmindMpApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.omind.mp.OmindMpApplication",
+            "projectName": "omind-mp"
+        },
+        {
+            "type": "java",
+            "name": "OmindSimplatApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.omind.simplat.OmindSimplatApplication",
+            "projectName": "omind-simplat"
+        },
+        {
+            "type": "java",
+            "name": "OmindUserplatApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.omind.userplat.OmindUserplatApplication",
+            "projectName": "omind-userplat"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiAuthApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.auth.RuoYiAuthApplication",
+            "projectName": "ruoyi-auth"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiDemoApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.demo.RuoYiDemoApplication",
+            "projectName": "ruoyi-demo"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiGatewayApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.gateway.RuoYiGatewayApplication",
+            "projectName": "ruoyi-gateway"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiJobApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.job.RuoYiJobApplication",
+            "projectName": "ruoyi-job"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiResourceApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.resource.RuoYiResourceApplication",
+            "projectName": "ruoyi-resource"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiStreamMqApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.stream.RuoYiStreamMqApplication",
+            "projectName": "ruoyi-stream-mq"
+        },
+        {
+            "type": "java",
+            "name": "RuoYiSystemApplication",
+            "request": "launch",
+            "mainClass": "org.dromara.system.RuoYiSystemApplication",
+            "projectName": "ruoyi-system"
+        }
+    ]
+}

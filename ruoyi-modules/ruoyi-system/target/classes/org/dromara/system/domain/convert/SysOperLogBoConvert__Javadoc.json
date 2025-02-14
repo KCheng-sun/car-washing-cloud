@@ -1,0 +1,1 @@
+{"doc":" 操作日志转换器\n @author zhujie\n","fields":[],"enumConstants":[],"methods":[{"name":"convert","paramTypes":["org.dromara.system.api.domain.bo.RemoteOperLogBo"],"doc":" RemoteOperLogBoToSysOperLogBo\n @param remoteOperLogBo 待转换对象\n @return 转换后对象\n"}],"constructors":[]}

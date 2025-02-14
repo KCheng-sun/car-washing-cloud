@@ -1,0 +1,1 @@
+{"doc":" 获取IP方法\n","fields":[],"enumConstants":[],"methods":[{"name":"textToNumericFormatV4","paramTypes":["java.lang.String"],"doc":" 将IPv4地址转换成字节\n\n @param text IPv4地址\n @return byte 字节\n"}],"constructors":[]}

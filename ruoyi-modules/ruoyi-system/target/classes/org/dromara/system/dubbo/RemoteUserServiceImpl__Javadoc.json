@@ -1,0 +1,1 @@
+{"doc":" 用户服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"buildLoginUser","paramTypes":["org.dromara.system.domain.vo.SysUserVo"],"doc":" 构建登录用户\n"},{"name":"recordLoginInfo","paramTypes":["java.lang.Long","java.lang.String"],"doc":" 更新用户信息\n\n @param userId 用户ID\n @param ip     IP地址\n"}],"constructors":[]}

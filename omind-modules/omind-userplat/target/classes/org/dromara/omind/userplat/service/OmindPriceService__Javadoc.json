@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"getPrice","paramTypes":["java.lang.String"],"doc":" 查询站点价格列表，按照0-24点顺序返回\n @param stationId\n @return\n"}],"constructors":[]}

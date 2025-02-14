@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"list","paramTypes":["org.dromara.omind.userplat.api.domain.dto.OmindUserCarListDto","org.dromara.common.mybatis.core.page.PageQuery"],"doc":" 管理后台查询用户车辆列表(分页)\n"},{"name":"getInfo","paramTypes":["java.lang.Long"],"doc":" 管理后台根据车辆id获取详细信息\n"}],"constructors":[]}

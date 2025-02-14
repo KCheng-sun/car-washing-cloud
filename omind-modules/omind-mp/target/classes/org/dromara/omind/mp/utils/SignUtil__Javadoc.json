@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"checkTokenAndSign","paramTypes":["java.lang.String","org.dromara.omind.mp.domain.request.SignRequest"],"doc":" 校验token和sign\n @param token         token值\n @param signRequest   sign部分\n @return 0 sign正确 token无效； -1 sign无效 -2时间戳异常  >0 返回UID sign token均有效\n"}],"constructors":[]}

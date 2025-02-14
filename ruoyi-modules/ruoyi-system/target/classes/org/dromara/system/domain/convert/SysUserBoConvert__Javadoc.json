@@ -1,0 +1,1 @@
+{"doc":" 用户信息转换器\n @author zhujie\n","fields":[],"enumConstants":[],"methods":[{"name":"convert","paramTypes":["org.dromara.system.api.domain.bo.RemoteUserBo"],"doc":" RemoteUserBoToSysUserBo\n @param remoteUserBo 待转换对象\n @return 转换后对象\n"}],"constructors":[]}

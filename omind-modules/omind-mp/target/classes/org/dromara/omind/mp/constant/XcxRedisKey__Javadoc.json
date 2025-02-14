@@ -1,0 +1,1 @@
+{"doc":"","fields":[{"name":"STATION_GEO_TM","doc":" 充电站geotm\n"},{"name":"STATION_GEO","doc":" 根据geo时间保存全部充电站Geo信息，存储ID\n"},{"name":"USER_TOKEN","doc":" 通过token 反查用户id\n"},{"name":"SYS_APP_INFO","doc":" 通过appkey查询应用信息\n"}],"enumConstants":[],"methods":[],"constructors":[]}

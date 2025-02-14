@@ -1,0 +1,1 @@
+{"doc":"","fields":[],"enumConstants":[],"methods":[{"name":"send","paramTypes":["org.dromara.omind.baseplat.api.domain.entity.SysChargeOrder","boolean","int"],"doc":"\n @param sysChargeOrder\n @param isSuccess\n @param reason 0无 1此设备不存在 2此设备离线 3设备已停止充电 4-99自定义\n"}],"constructors":[]}

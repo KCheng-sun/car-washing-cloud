@@ -1,0 +1,1 @@
+{"doc":" 日志服务\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"saveLog","paramTypes":["org.dromara.system.api.domain.bo.RemoteOperLogBo"],"doc":" 保存系统日志\n\n @param sysOperLog 日志实体\n"},{"name":"saveLogininfor","paramTypes":["org.dromara.system.api.domain.bo.RemoteLogininforBo"],"doc":" 保存访问记录\n\n @param sysLogininfor 访问实体\n"}],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" @author zhujie\n","fields":[],"enumConstants":[],"methods":[{"name":"queryByTenantId","paramTypes":["java.lang.String"],"doc":" 根据租户id获取租户详情\n @param tenantId 租户id\n @return 结果\n"},{"name":"queryList","paramTypes":[],"doc":" 获取租户列表\n @return 结果\n"}],"constructors":[]}

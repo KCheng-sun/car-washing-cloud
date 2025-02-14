@@ -1,1 +1,1 @@
-{"doc":" 远程停机命令回复\n 上传实时数据\n 用户主动结束\n 从服务器断开\n","fields":[],"enumConstants":[],"methods":[{"name":"remoteStopCharging","paramTypes":["org.dromara.omind.baseplat.api.domain.entity.SysChargeOrder"],"doc":" 远程停机\n @param sysChargeOrder\n"}],"constructors":[]}
+{"doc":" 远程停机命令回复\n 上传实时数据\n 用户主动结束\n 从服务器断开\n","fields":[],"enumConstants":[],"methods":[{"name":"remoteStopCharging","paramTypes":["SysChargeOrder"],"doc":" 远程停机\n @param sysChargeOrder\n"}],"constructors":[]}

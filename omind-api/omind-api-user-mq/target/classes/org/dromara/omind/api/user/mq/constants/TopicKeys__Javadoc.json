@@ -1,1 +1,0 @@
-{"doc":"","fields":[{"name":"PileUpStationStatus","doc":" 用户平台--处理基础推送设备状态变化信息\n"},{"name":"PileUpEquipChargeStatus","doc":" 用户平台--处理基础平台推送充电设备的充电状态\n"},{"name":"PileUpChargeOrderInfo","doc":" 用户平台--处理基础平台推送充电订单信息\n"}],"enumConstants":[],"methods":[],"constructors":[]}

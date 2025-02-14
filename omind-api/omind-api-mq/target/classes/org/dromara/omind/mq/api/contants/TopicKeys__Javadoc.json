@@ -1,1 +1,0 @@
-{"doc":"","fields":[{"name":"PilePriceSender","doc":" 充电桩价格推送\n"},{"name":"PileHeartBeat","doc":" 充电桩心跳-batch\n"},{"name":"PileRealtimeData","doc":" 充电桩实时数据-batch\n"},{"name":"PileChargeOrder","doc":" 充电订单\n"},{"name":"StationPriceSender","doc":" 充电价格下发至用户平台\n"}],"enumConstants":[],"methods":[],"constructors":[]}

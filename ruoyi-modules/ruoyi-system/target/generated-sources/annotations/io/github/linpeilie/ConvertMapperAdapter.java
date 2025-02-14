@@ -107,11 +107,11 @@ public class ConvertMapperAdapter {
 
   @Autowired
   @Lazy
-  private SysTenantVoToSysTenantMapper sysTenantVoToSysTenantMapper;
+  private SysPostBoToSysPostMapper sysPostBoToSysPostMapper;
 
   @Autowired
   @Lazy
-  private SysPostBoToSysPostMapper sysPostBoToSysPostMapper;
+  private SysTenantVoToSysTenantMapper sysTenantVoToSysTenantMapper;
 
   @Autowired
   @Lazy
@@ -267,19 +267,19 @@ public class ConvertMapperAdapter {
 
   @Autowired
   @Lazy
-  private SysTenantBoToSysTenantMapper sysTenantBoToSysTenantMapper;
-
-  @Autowired
-  @Lazy
   private SysDictTypeBoToSysDictTypeMapper sysDictTypeBoToSysDictTypeMapper;
 
   @Autowired
   @Lazy
-  private SysMenuToSysMenuVoMapper sysMenuToSysMenuVoMapper;
+  private SysTenantBoToSysTenantMapper sysTenantBoToSysTenantMapper;
 
   @Autowired
   @Lazy
   private SysTenantPackageToSysTenantPackageVoMapper sysTenantPackageToSysTenantPackageVoMapper;
+
+  @Autowired
+  @Lazy
+  private SysMenuToSysMenuVoMapper sysMenuToSysMenuVoMapper;
 
   @Autowired
   @Lazy
@@ -296,11 +296,11 @@ public class ConvertMapperAdapter {
   public SysLogininfor org_dromara_system_domain_vo_SysLogininforVoToSysLogininfor(SysLogininforVo param) {
     return sysLogininforVoToSysLogininforMapper.convert(param);}
 
-  public SysTenant org_dromara_system_domain_vo_SysTenantVoToSysTenant(SysTenantVo param) {
-    return sysTenantVoToSysTenantMapper.convert(param);}
-
   public SysPost org_dromara_system_domain_bo_SysPostBoToSysPost(SysPostBo param) {
     return sysPostBoToSysPostMapper.convert(param);}
+
+  public SysTenant org_dromara_system_domain_vo_SysTenantVoToSysTenant(SysTenantVo param) {
+    return sysTenantVoToSysTenantMapper.convert(param);}
 
   public SysUser org_dromara_system_domain_vo_SysUserVoToSysUser(SysUserVo param) {
     return sysUserVoToSysUserMapper.convert(param);}
@@ -416,17 +416,17 @@ public class ConvertMapperAdapter {
   public SysDeptVo org_dromara_system_domain_SysDeptToSysDeptVo(SysDept param) {
     return sysDeptToSysDeptVoMapper.convert(param);}
 
-  public SysTenant org_dromara_system_domain_bo_SysTenantBoToSysTenant(SysTenantBo param) {
-    return sysTenantBoToSysTenantMapper.convert(param);}
-
   public SysDictType org_dromara_system_domain_bo_SysDictTypeBoToSysDictType(SysDictTypeBo param) {
     return sysDictTypeBoToSysDictTypeMapper.convert(param);}
 
-  public SysMenuVo org_dromara_system_domain_SysMenuToSysMenuVo(SysMenu param) {
-    return sysMenuToSysMenuVoMapper.convert(param);}
+  public SysTenant org_dromara_system_domain_bo_SysTenantBoToSysTenant(SysTenantBo param) {
+    return sysTenantBoToSysTenantMapper.convert(param);}
 
   public SysTenantPackageVo org_dromara_system_domain_SysTenantPackageToSysTenantPackageVo(SysTenantPackage param) {
     return sysTenantPackageToSysTenantPackageVoMapper.convert(param);}
+
+  public SysMenuVo org_dromara_system_domain_SysMenuToSysMenuVo(SysMenu param) {
+    return sysMenuToSysMenuVoMapper.convert(param);}
 
   public SysNoticeVo org_dromara_system_domain_SysNoticeToSysNoticeVo(SysNotice param) {
     return sysNoticeToSysNoticeVoMapper.convert(param);}
